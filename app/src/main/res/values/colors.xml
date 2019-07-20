@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default Colors -->
+    <color name="colorSemiTranparent">#EFEFF4</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorOffWhite">#E9E9EA</color>
+    <color name="colorRecyclerViewDividerColor">#D0D0D0</color>
+    <color name="colorPrimary">#447374</color>
+    <color name="colorPrimaryDark">#447374</color>
+    <color name="colorAccent">#447374</color>
+
+</resources>
